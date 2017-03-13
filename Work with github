@@ -1,10 +1,10 @@
 How to upload data in Github
 Creat the repository
 Clone the repository address
-Download and install git file
+Download and install git.exe
 Go to the address where you want to have github file in "command; cmd"
 Write in cmd "git clone 'repository address'"
-Copy files in the github file created in your computer
+Copy files in the github file created in your computer using previous command
 in cmd "git add ."
 git commit -m "---"
 git push
